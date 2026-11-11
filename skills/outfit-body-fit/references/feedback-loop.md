@@ -20,10 +20,10 @@
 ```json
 {
   "measurements": {
-    "height_cm": 162, "shoulder_width_cm": 37, "hip_width_cm": 40,
-    "waist_cm": 74, "hip_cm": 96, "bust_cm": 88, "crotch_height_cm": 72
+    "height_cm": 170, "shoulder_width_cm": 36, "hip_width_cm": 38,
+    "waist_cm": 72, "hip_cm": 94, "bust_cm": 87, "crotch_height_cm": 76
   },
-  "computed": { "shr": 0.93, "whr": 0.77, "lbr": 0.44 },
+  "computed": { "shr": 0.95, "whr": 0.77, "lbr": 0.45 },
   "constraints": { "no_heels": true, "budget": "中", "climate": "华东" },
   "known_good": ["正肩薄垫肩西装", "深灰直筒九分西裤"],
   "known_bad": ["插肩卫衣", "大摆伞裙"]
